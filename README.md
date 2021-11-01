@@ -1,5 +1,3 @@
-
-
 <p>News </p>
 
 <h1> Crece demanda por Desarrolladores Full Stack con Mern </h1>
@@ -29,3 +27,9 @@ lo que ha llevado a una fuerte demanda por desarrolladores con acabados conocimi
 <li>Polonia 297.000.
   
 <p>No obstante aquello la predicción no se cumplio quedando aun un deficit de puestos por cubrir de al menos un 35% superior a la estimacion original. (Fuente Notipress.mx)</p>
+  
+  
+<a href="https://business.linkedin.com/content/dam/me/business/en-us/talent-solutions/emerging-jobs-report/Informe-de-Empleos-Emergentes-Mexico-2020.pdf">
+  
+  
+<li> Informe de empleos emergentes Linkedin
